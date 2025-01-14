@@ -1,11 +1,11 @@
 # Hi, I'm Loyd!
 
-I'm a **Software QA Engineer** transitioning into **Cybersecurity** with a passion for automation, security, and continuous learning. I specialize in Python, Docker, CI/CD pipelines, and manual testing, and I'm currently expanding my expertise in application security.
+Software QA Engineer with a strong foundation in Python, Docker, CI/CD pipelines, and manual testing, and a growing interest in transitioning into Cybersecurity. Passionate about automation, security, and continuous learning, I am actively expanding my knowledge in application security to apply security best practices and strengthen software quality.
 
 ---
 
 ## 🛠️ Technical Skills
-- **Languages:** Python, Bash, C++, C#, JavaScript  
+- **Languages:** Python, Bash, C++
 - **Tools & Platforms:** Docker, Kubernetes, Jenkins, Selenium, GitHub, Trello  
 - **Testing:** Manual Testing, Automation Testing, Regression Testing, CI/CD Pipelines  
 - **Cybersecurity:** TryHackMe, PortSwigger Labs, Homelabs, Letsdefend, HackTheBox  
@@ -15,20 +15,21 @@ I'm a **Software QA Engineer** transitioning into **Cybersecurity** with a passi
 ## 🚀 Projects
 
 ### 🔐 **Cybersecurity Projects**
-- [TryHackMe Learning Modules](https://github.com/Lval25/TryHackMe-Modules) – Notes and walkthroughs for cybersecurity topics like the OSI Model, MITRE ATT&CK, and YARA rules.  
-- [PortSwigger Repository](https://github.com/Lval25/PortSwigger) – Practical labs focused on identifying and exploiting server-side vulnerabilities.  
+- [TryHackMe Learning Modules](https://github.com/Lval25/TryHackMe-Modules) –Comprehensive notes and walkthroughs covering a wide range of cybersecurity topics and security principles on TryHackMe.
+  
+- [PortSwigger Repository](https://github.com/Lval25/PortSwigger) – Engaged in practical labs through PortSwigger's Web Security Academy, focused on identifying and exploiting a wide range of web application vulnerabilities to strengthen overall web security expertise.  
 
 ---
 
 ### 📚 **Data Structures & Algorithms (DSA)**
 - [DSA Projects Repository](https://github.com/Lval25/DSA-Algorithms) – A collection of Python implementations for common data structures and algorithms.
-
+- [Python Projects](https://github.com/Lval25/Python-Practice-Projects) - A collection of Python projects focused on core Python concepts and learning.
+  
 ---
 
 ### 🛠️ **Automation & QA Tools**
-- [Automation Scripts](https://github.com/Lval25/Automation-Scripts) – Python tools for automating manual testing tasks.  
-- [Docker & Jenkins CI/CD](https://github.com/Lval25/Docker-Jenkins-CI-CD) – Enhancing CI/CD pipelines for efficient testing workflows.  
-
+- [Automation Scripts](https://github.com/Lval25/Automation-Scripts) – Python tools for automating manual testing tasks.
+  
 ---
 
 ## 📫 Connect with Me
