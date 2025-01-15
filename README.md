@@ -15,9 +15,13 @@ Software QA Engineer with a strong foundation in Python, Docker, CI/CD pipelines
 ## 🚀 Projects
 
 ### 🔐 **Cybersecurity Projects**
+<!--
 - [TryHackMe Learning Modules](https://github.com/Lval25/TryHackMe-Modules) –Comprehensive notes and walkthroughs covering a wide range of cybersecurity topics and security principles on TryHackMe.
+-->
   
-- [PortSwigger Repository](https://github.com/Lval25/PortSwigger) – Engaged in practical labs through PortSwigger's Web Security Academy, focused on identifying and exploiting a wide range of web application vulnerabilities to strengthen overall web security expertise.  
+- [PortSwigger Repository](https://github.com/Lval25/PortSwigger) – Engaged in practical labs through PortSwigger's Web Security Academy, focused on identifying and exploiting a wide range of web application vulnerabilities to strengthen overall web security expertise.
+
+- [Home Lab Setup](https://github.com/Lval25/Homelab) – Actively building and managing a cybersecurity-focused home lab environment to simulate real-world scenarios for hands-on experience. 
 
 ---
 
