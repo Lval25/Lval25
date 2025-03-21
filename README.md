@@ -44,4 +44,9 @@ Software QA Engineer with a strong foundation in Python, Docker, CI/CD pipelines
 
 ---
 
+### **CCNA 200-300 Course Notes and Labs**
+- [CCNA Labs](https://github.com/Lval25/CCNA) - Course material and Packet Tracer Labs 
+
+
+---
 *Always learning, building, and improving.*  
