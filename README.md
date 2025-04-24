@@ -14,6 +14,12 @@ Software QA Engineer with a strong foundation in Python, Docker, CI/CD pipelines
 
 ## 🚀 Projects
 
+### 📚 **Data Structures & Algorithms (DSA)**
+- [DSA Projects Repository](https://github.com/Lval25/DSA-Algorithms) – A collection of Python implementations for common data structures and algorithms.
+- [Python Projects](https://github.com/Lval25/Python-Practice-Projects) - A collection of Python projects focused on core Python concepts and learning.
+
+---  
+
 ### 🔐 **Cybersecurity Projects**
 <!--
 - [TryHackMe Learning Modules](https://github.com/Lval25/TryHackMe-Modules) –Comprehensive notes and walkthroughs covering a wide range of cybersecurity topics and security principles on TryHackMe.
@@ -36,17 +42,16 @@ Software QA Engineer with a strong foundation in Python, Docker, CI/CD pipelines
   
 ---
 
+### **CCNA 200-300 Course Notes and Labs**
+- [CCNA Labs](https://github.com/Lval25/CCNA) - Course material and Packet Tracer Labs
+
+---
+
 ## 📫 Connect with Me
 
 - **Email:** lvallot25@gmail.com  
 - **LinkedIn:** [linkedin.com/in/loydvallot](https://www.linkedin.com/in/loydvallot)  
-- **GitHub:** [github.com/Lval25](https://github.com/Lval25)  
-
----
-
-### **CCNA 200-300 Course Notes and Labs**
-- [CCNA Labs](https://github.com/Lval25/CCNA) - Course material and Packet Tracer Labs 
-
-
+- **GitHub:** [github.com/Lval25](https://github.com/Lval25)
+  
 ---
 *Always learning, building, and improving.*  
