@@ -47,6 +47,11 @@ Software QA Engineer with a strong foundation in Python, Docker, CI/CD pipelines
 
 ---
 
+### **Devops & Cloud Notes and Labs**
+- [Devops/Cloud Labs](https://github.com/Lval25/dev) - Course material and projects using devops and cloud technologies
+
+---
+
 ## 📫 Connect with Me
 
 - **Email:** lvallot25@gmail.com  
